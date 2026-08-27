@@ -1,0 +1,9 @@
+{
+  "task_id": "permission-manager",
+  "task_name": "permission-manager",
+  "implementor": "yuzhen-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task permission-manager implemented by yuzhen-dev"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": "price-tracker",
+  "task_name": "price-tracker",
+  "implementor": "fan-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task price-tracker implemented by fan-dev"
+}

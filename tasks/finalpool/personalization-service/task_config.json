@@ -1,0 +1,9 @@
+{
+  "task_id": "personalization-service",
+  "task_name": "personalization-service",
+  "implementor": "lv",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task personalization-service implemented by lv"
+}
