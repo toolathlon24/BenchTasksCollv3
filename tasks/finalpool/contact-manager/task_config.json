@@ -1,0 +1,9 @@
+{
+  "task_id": "contact-manager",
+  "task_name": "contact-manager",
+  "implementor": "junteng_dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task contact-manager implemented by junteng_dev"
+}
