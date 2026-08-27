@@ -1,0 +1,9 @@
+{
+  "task_id": "deal-manager",
+  "task_name": "deal-manager",
+  "implementor": "lueyang-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task deal-manager implemented by lueyang-dev"
+}

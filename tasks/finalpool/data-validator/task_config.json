@@ -1,0 +1,9 @@
+{
+  "task_id": "data-validator",
+  "task_name": "data-validator",
+  "implementor": "yuzhen-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task data-validator implemented by yuzhen-dev"
+}

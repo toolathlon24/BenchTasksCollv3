@@ -1,0 +1,9 @@
+{
+  "task_id": "translation-api",
+  "task_name": "translation-api",
+  "implementor": "junxian_dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task translation-api implemented by junxian_dev"
+}
