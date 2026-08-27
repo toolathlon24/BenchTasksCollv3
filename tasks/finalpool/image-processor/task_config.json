@@ -1,0 +1,9 @@
+{
+  "task_id": "image-processor",
+  "task_name": "image-processor",
+  "implementor": "wenshuo-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task image-processor implemented by wenshuo-dev"
+}
