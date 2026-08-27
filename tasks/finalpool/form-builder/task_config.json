@@ -1,0 +1,9 @@
+{
+  "task_id": "form-builder",
+  "task_name": "form-builder",
+  "implementor": "yuzhen-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task form-builder implemented by yuzhen-dev"
+}

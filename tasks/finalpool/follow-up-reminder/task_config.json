@@ -1,0 +1,9 @@
+{
+  "task_id": "follow-up-reminder",
+  "task_name": "follow-up-reminder",
+  "implementor": "lueyang-dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task follow-up-reminder implemented by lueyang-dev"
+}

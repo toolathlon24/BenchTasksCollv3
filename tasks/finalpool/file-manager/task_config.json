@@ -1,0 +1,9 @@
+{
+  "task_id": "file-manager",
+  "task_name": "file-manager",
+  "implementor": "ruige",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task file-manager implemented by ruige"
+}
