@@ -1,0 +1,9 @@
+{
+  "task_id": "social-publisher",
+  "task_name": "social-publisher",
+  "implementor": "gyy",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task social-publisher implemented by gyy"
+}

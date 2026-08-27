@@ -1,0 +1,9 @@
+{
+  "task_id": "template-engine",
+  "task_name": "template-engine",
+  "implementor": "zhaochen",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task template-engine implemented by zhaochen"
+}

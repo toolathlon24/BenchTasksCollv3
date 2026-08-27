@@ -1,0 +1,9 @@
+{
+  "task_id": "email-classification-system",
+  "task_name": "email-classification-system",
+  "implementor": "jl_dev",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"],
+  "description": "Task email-classification-system implemented by jl_dev"
+}
